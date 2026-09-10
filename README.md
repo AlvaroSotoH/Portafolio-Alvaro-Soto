@@ -26,7 +26,7 @@ Cada carpeta de proyecto contiene:
 ### [YouTube Comment Sentiment Analysis](https://)
 xxxxxxxxxx
 
-## Certificacione
+## Certificaciones
 
 [Certificado - diplomado estadística aplicada](https://github.com/AlvaroSotoH/Portafolio-Alvaro-Soto/blob/main/Certificados/04%20ALVARO_SOTO%20-%20DIPLOMADO_CERTIFICADO.PDF)
 
