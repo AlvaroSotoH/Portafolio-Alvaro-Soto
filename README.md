@@ -33,5 +33,5 @@ xxxxxxxxxx
 
 Ya sea que le interese hablar sobre metodologías de proyectos, explorar posibles colaboraciones o compartir sus comentarios, no dude en ponerse en contacto.
 
-- LinkedIn: [@haiqingliu](https://www.linkedin.com/in/%C3%A1lvaro-soto-76b6a1257/)
+- LinkedIn: [@AlvaroSoto](https://www.linkedin.com/in/%C3%A1lvaro-soto-76b6a1257/)
 - Email: as.alvaro.soto@gmail.com
