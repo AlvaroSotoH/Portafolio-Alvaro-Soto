@@ -21,9 +21,9 @@
 Cada carpeta de proyecto contiene:
 - Un archivo README detallado que describe el objetivo del proyecto, la metodología, las herramientas utilizadas y los hallazgos clave.
   
-## Python Projects
+## Habilidades python
 
-### [YouTube Comment Sentiment Analysis](https://)
+### [aaaaaaaaaa](https://)
 xxxxxxxxxx
 
 ## Certificaciones
