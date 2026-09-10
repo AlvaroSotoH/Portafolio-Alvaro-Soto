@@ -6,7 +6,7 @@
 
 - [Resumen de proyectos](#Resumen-de-proyectos)
 - [Lo que encontrarás](#Lo-que-encontrarás)
-- [Python Projects](#python-projects)
+- [Habilidades python](#Habilidades-python)
 - [Certificaciones](#Certificacione)
 - [Entremos en contacto](#Entremos-en-contacto)
 - [Más sobre mi](#Más-sobre-mi)
