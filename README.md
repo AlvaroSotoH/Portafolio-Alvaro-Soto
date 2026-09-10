@@ -27,7 +27,7 @@ xxxxxxxxxx
 
 ## Certifications
 
-[aaaaaaaaaaaaaaa](https://)
+[Certificado - diplomado estadística aplicada](https://https://github.com/AlvaroSotoH/Portafolio-Alvaro-Soto/blob/main/Certificados/04%20ALVARO_SOTO%20-%20DIPLOMADO_CERTIFICADO.PDF)
 
 ## Let's Connect
 
