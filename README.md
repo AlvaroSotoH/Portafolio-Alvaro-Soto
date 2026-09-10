@@ -4,18 +4,18 @@
 
 ## Tabla de contenidos
 
-- [Projects Overview](#projects-overview)
-- [What You'll Find](#what-youll-find)
+- [Resumen de proyectos](#Resumen-de-proyectos)
+- [Lo que encontrarás](#Lo-que-encontrarás)
 - [Python Projects](#python-projects)
-- [Certifications](#certifications)
-- [Let's Connect](#lets-connect)
+- [Certificaciones](#Certificacione)
+- [Entremos en contacto](#Entremos-en-contacto)
 
-## Projects Overview
+## Resumen de proyectos
 
 - **Python para el análisis de datos**: Una colección de cuadernos (notebooks) que abarca la manipulación, limpieza y análisis de datos mediante pandas, NumPy y otras bibliotecas de Python para identificar tendencias y patrones.
 - **Modelos de aprendizaje automático**: Implementación de algoritmos de aprendizaje automático utilizando scikit-learn y TensorFlow para predecir resultados, clasificar datos y extraer información valiosa tanto de datos estructurados como no estructurados.
 
-## What You'll Find
+## Lo que encontrarás
 
 Cada carpeta de proyecto contiene:
 - Un archivo README detallado que describe el objetivo del proyecto, la metodología, las herramientas utilizadas y los hallazgos clave.
@@ -25,11 +25,11 @@ Cada carpeta de proyecto contiene:
 ### [YouTube Comment Sentiment Analysis](https://)
 xxxxxxxxxx
 
-## Certifications
+## Certificacione
 
 [Certificado - diplomado estadística aplicada](https://github.com/AlvaroSotoH/Portafolio-Alvaro-Soto/blob/main/Certificados/04%20ALVARO_SOTO%20-%20DIPLOMADO_CERTIFICADO.PDF)
 
-## Let's Connect
+## Entremos en contacto
 
 Ya sea que le interese hablar sobre metodologías de proyectos, explorar posibles colaboraciones o compartir sus comentarios, no dude en ponerse en contacto.
 
