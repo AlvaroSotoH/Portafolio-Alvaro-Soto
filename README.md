@@ -23,7 +23,7 @@ Cada carpeta de proyecto contiene:
   
 ## Habilidades python
 
-### [Habilidad: aprendizaje de máquina no supervisado](https://)
+### [Habilidad: aprendizaje de máquina no supervisado](https://github.com/AlvaroSotoH/Portafolio-Alvaro-Soto/blob/main/Habilidad%3A%20aprendizaje%20de%20m%C3%A1quina%20no%20supervisado/x013.ipynb)
 Aquí encontrarás algunas de mis habilidades relacionadas a la reducción de dimensionalidad, con PCA y t-SNE.
 
 ## Certificaciones
