@@ -23,8 +23,8 @@ Cada carpeta de proyecto contiene:
   
 ## Habilidades python
 
-### [aaaaaaaaaa](https://)
-xxxxxxxxxx
+### [Habilidad: aprendizaje de máquina no supervisado](https://)
+Aquí encontrarás algunas de mis habilidades relacionadas a la reducción de dimensionalidad, con PCA y t-SNE.
 
 ## Certificaciones
 
