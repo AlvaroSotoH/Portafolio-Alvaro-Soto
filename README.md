@@ -9,6 +9,7 @@
 - [Python Projects](#python-projects)
 - [Certificaciones](#Certificacione)
 - [Entremos en contacto](#Entremos-en-contacto)
+- [Más sobre mi](#Más-sobre-mi)
 
 ## Resumen de proyectos
 
@@ -35,3 +36,26 @@ Ya sea que le interese hablar sobre metodologías de proyectos, explorar posible
 
 - LinkedIn: [@AlvaroSoto](https://www.linkedin.com/in/%C3%A1lvaro-soto-76b6a1257/)
 - Email: as.alvaro.soto@gmail.com
+
+## Más sobre mi
+
+● ¿Quién eres?
+  Álvaro Soto.
+  
+● ¿De dónde eres?
+  Puerto Varas.
+  
+● ¿A qué te dedicas?
+  Profesor de matemáticas.
+  
+● ¿Cuál es tu formación?
+  Docente.
+  
+● ¿Cuáles son tus experiencias previas? Y en caso de que no tengas, ¿por qué
+deberían contactarte?
+  1. Profesor de enseñanza media en el colegio nueva alerce
+  2. Profesor de enseñanza media en el colegio Chileno Norteamericano
+  3. Profesor de matemáticas a honorarios.
+
+● ¿Cómo y a través de qué medios te pueden contactar?
+  Por correo.
